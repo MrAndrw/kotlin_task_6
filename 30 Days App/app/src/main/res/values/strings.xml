@@ -1,0 +1,68 @@
+
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <string name="affirmation1">Go to the cinema.</string>
+    <string name="affirmation2">Hang out with friends.</string>
+    <string name="affirmation3">Eat a big pizza.</string>
+    <string name="affirmation4">Read an interesting book.</string>
+    <string name="affirmation5">Watch a good film.</string>
+    <string name="affirmation6">Go to the park.</string>
+    <string name="affirmation7">Create an App in a course.</string>
+    <string name="affirmation8">Swim in pool.</string>
+    <string name="affirmation9">Ride a bike.</string>
+    <string name="affirmation10">Buy something new to home.</string>
+    <string name="affirmation11">Say 10 wishes and write in to wishes book.</string>
+    <string name="affirmation12">Go to gym.</string>
+    <string name="affirmation13">Eat a tasty cake.</string>
+    <string name="affirmation14">Do some sports.</string>
+    <string name="affirmation15">Go to journey.</string>
+    <string name="affirmation16">Listen to a new audiobook.</string>
+    <string name="affirmation17">Take a 15 min meditation.</string>
+    <string name="affirmation18">Wake up at 8 am.</string>
+    <string name="affirmation19">Go sleep at 10 pm.</string>
+    <string name="affirmation20">Clean your room.</string>
+    <string name="affirmation21">Go to the museum.</string>
+    <string name="affirmation22">Take a fresh salad.</string>
+    <string name="affirmation23">Write an ease about a good thing.</string>
+    <string name="affirmation24">Watch comedy.</string>
+    <string name="affirmation25">Do the best gift for somebody .</string>
+    <string name="affirmation26">Make a surprise for somebody.</string>
+    <string name="affirmation27">Try to sleep in the middle of a day.</string>
+    <string name="affirmation28">Cook something new for yourself.</string>
+    <string name="affirmation29">Make a coffee.</string>
+    <string name="affirmation30">Enjoy every moment of this day.</string>
+
+    <string name="affirmatio1">Go to the cinema to watch interesting new movies.</string>
+    <string name="affirmatio2">Go out with friends, it will help you to be in good company and you can relax.</string>
+    <string name="affirmatio3">If you eat a big and delicious pizza, you will be in a good mood for the whole day, because pizza is cool.</string>
+    <string name="affirmatio4">A good book always helps in difficult situations, distracts from bad thoughts.</string>
+    <string name="affirmatio5">You will remember an interesting film for a long time.</string>
+    <string name="affirmatio6">A walk in the park will relax you and allow you to enjoy nature and solitude with it.</string>
+    <string name="affirmatio7">Creating an application in the Android development course will make your life easier, because you will not have to go to the exam.</string>
+    <string name="affirmatio8">Swimming in the pool is good for your back and posture, and also helps to keep your body in good shape.</string>
+    <string name="affirmatio9">Cycling will also help keep your body in good shape and strengthen your heart..</string>
+    <string name="affirmatio10">Shopping at home always brings joy and enjoyment from it.</string>
+    <string name="affirmatio11">A good motivation to do something, make your most cherished wishes and write them down, and then go ahead to realize.</string>
+    <string name="affirmatio12">The gym will help keep your body in good shape, as well as strengthen your muscles and make you more attractive.</string>
+    <string name="affirmatio13">A delicious cake will cheer you up for a long time.</string>
+    <string name="affirmatio14">It will help keep your body in good shape.</string>
+    <string name="affirmatio15">A change of environment has a positive effect on the moral and physical condition.</string>
+    <string name="affirmatio16">The audiobook will relax you and you will be able to immerse yourself in the world of short stories and fantastic stories.</string>
+    <string name="affirmatio17">Meditation will allow you to immerse yourself in yourself and understand your spiritual state.</string>
+    <string name="affirmatio18">Getting up at 8 a.m. contributes to a productive working day.</string>
+    <string name="affirmatio19">If you go to bed at 10 p.m., then you will fully restore your body overnight and get enough sleep.</string>
+    <string name="affirmatio20">Cleaning the room will help you breathe freshness in the apartment, as well as give it a beautiful look.</string>
+    <string name="affirmatio21">Going to a museum helps to set up the mind to study culture and history, besides, there are different museums.</string>
+    <string name="affirmatio22">Fresh salad helps to normalize digestive processes in the body, which will have a positive effect on health.</string>
+    <string name="affirmatio23">If you write an essay about the good things in your life, then you will start thinking positively and your productivity will increase.</string>
+    <string name="affirmatio24">Comedy shows are great for uplifting and improving well-being.</string>
+    <string name="affirmatio25">The best gift to a friend or family member will not only unite you even more, but also give you great pleasure.</string>
+    <string name="affirmatio26">Everyone loves surprises if they are good. Lift someones mood and it will rise for you too.</string>
+    <string name="affirmatio27">Daytime sleep helps to get the most energy out of the current day, try it.</string>
+    <string name="affirmatio28">Cooking has always been an interesting activity, cook something unusual, experiment.</string>
+    <string name="affirmatio29">Make yourself a coffee, because it activates your thought processes and helps you recharge for the rest of the daye.</string>
+    <string name="affirmatio30">Every new day is an amazing event, because you never know what it will bring you. Enjoy it.</string>
+
+
+</resources>
